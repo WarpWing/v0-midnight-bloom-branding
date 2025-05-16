@@ -16,12 +16,6 @@ Your project is live at:
 
 **[https://vercel.com/warpwings-projects/v0-midnight-bloom-branding](https://vercel.com/warpwings-projects/v0-midnight-bloom-branding)**
 
-## Build your app
-
-Continue building your app on:
-
-**[https://v0.dev/chat/projects/cIdvfL3V7pW](https://v0.dev/chat/projects/cIdvfL3V7pW)**
-
 ## How It Works
 
 1. Create and modify your project using [v0.dev](https://v0.dev)
